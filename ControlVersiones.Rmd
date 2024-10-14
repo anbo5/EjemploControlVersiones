@@ -13,6 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Área Circulo
 ```{r}
 r<-0.5
-area<-pi*r^2
+areaCirculo<-pi*r^2
 ```
-
+## Área Cuadrado
+```{r}
+l<-0.5
+areaCuadrado<-l^2
+```
