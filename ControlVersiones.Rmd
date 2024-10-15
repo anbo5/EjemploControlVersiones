@@ -15,8 +15,22 @@ knitr::opts_chunk$set(echo = TRUE)
 r<-0.5
 areaCirculo<-pi*r^2
 ```
+
 ## Área Cuadrado
 ```{r}
 l<-0.5
 areaCuadrado<-l^2
 ```
+
+## Área del triangulo
+```{r}
+b<-0.5
+h<-1
+areatriangulo <- b*h/2
+```
+
+## Área del rectangulo
+```{r}
+arearectangulo <- b*h
+```
+
